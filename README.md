@@ -11,9 +11,6 @@
 <a href="https://t.me/flutterci">
   <img align="left" alt="Nurulloh's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://instagram.com/theshekharaggarwal/">
-  <img align="left" alt="Nurulloh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 <br/>
 <br/>
 
@@ -32,6 +29,7 @@
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>
 
 ![Nurulloh's GitHub stats](https://github-readme-stats.vercel.app/api?username=nurullohabdulvahed&show_icons=true&bg_color=00000000)
 <div align="center">
