@@ -42,9 +42,3 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nurullohabdulvahed&show_icons=true&theme=light&count_private=true&include_all_commits=true&custom_title=Nurulloh's%20github%20stats" alt="Nurulloh's github stats"/>
 </a>
 
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
