@@ -39,7 +39,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurullohabdulvahed&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/nurullohabdulvahed">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=nurullohabdulvahed&show_icons=true&theme=light&count_private=true&include_all_commits=true&custom_title=Shekhar's%20github%20stats" alt="Nurulloh's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=nurullohabdulvahed&show_icons=true&theme=light&count_private=true&include_all_commits=true&custom_title=Nurulloh's%20github%20stats" alt="Nurulloh's github stats"/>
 </a>
 
 
