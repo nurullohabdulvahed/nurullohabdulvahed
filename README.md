@@ -25,7 +25,7 @@
 - ⚡ Fun fact: I just listen rap songs while coding
 
 [![Linkedin: Nurulloh Abdulvahed ](https://img.shields.io/badge/-Nurulloh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imnurulloh/)](https://www.linkedin.com/in/imnurulloh)
-[![GitHub shekharAggarwal](https://img.shields.io/github/followers/imnurulloh?label=follow&style=social)](https://github.com/shekharAggarwal)
+[![GitHub nurullohabdulvahed](https://img.shields.io/github/followers/imnurulloh?label=follow&style=social)](https://github.com/nurullohabdulvahed)
 
 
 **Languages and Tools:**
@@ -35,11 +35,11 @@
 
 **Stats:**
 
-<a href="https://github.com/shekharAggarwal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shekharAggarwal&theme=light&hide_langs_below=1" />
+<a href="https://github.com/nurullohabdulvahed">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurullohabdulvahed&theme=light&hide_langs_below=1" />
 </a>
-<a href="https://github.com/shekharAggarwal">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=shekharAggarwal&show_icons=true&theme=light&count_private=true&include_all_commits=true&custom_title=Shekhar's%20github%20stats" alt="Shekhar's github stats"/>
+<a href="https://github.com/nurullohabdulvahed">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=nurullohabdulvahed&show_icons=true&theme=light&count_private=true&include_all_commits=true&custom_title=Shekhar's%20github%20stats" alt="Nurulloh's github stats"/>
 </a>
 
 
