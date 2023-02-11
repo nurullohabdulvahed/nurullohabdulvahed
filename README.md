@@ -25,7 +25,7 @@
 - ⚡ Fun fact: I just listen rap songs while coding
 
 [![Linkedin: Nurulloh Abdulvahed ](https://img.shields.io/badge/-Nurulloh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imnurulloh/)](https://www.linkedin.com/in/imnurulloh)
-[![GitHub nurullohabdulvahed]](https://github.com/nurullohabdulvahed)
+[!(https://img.shields.io/github/followers/imnurulloh?label=follow&style=social)]
 
 
 **Languages and Tools:**
