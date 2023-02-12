@@ -14,12 +14,12 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on [Sorting Visualization](https://github.com/nurullohabdulvahed).
-- 🌱 I’m currently learning [Flutter](flutter.dev).
-- 👯 I’m looking to collaborate on [Sorting Visualization](https://github.com/nurullohabdulvahed).
-- 💬 Ask me about Flutter or any tech related stuff [here](https://github.com/nurullohabdulvahed).
+- 🌱 I’m Currently Working On my problem solving skills.
+- 🌱 I’m currently learning about everything 💫
+- 👯 I’m looking to collaborate with other developers for the invention 💡
+- 💬 Ask Me About Anything, I Am Happy To Help;
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I just listen rap songs while coding
+- ⚡ Fun fact: I love to reading 📚, enjoying music 🎧 and traveling ✈️
 
 [![Linkedin: Nurulloh Abdulvahed ](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imnurulloh)
 [![GitHub Nurulloh Abdulvahed](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nurullohabdulvahed)
